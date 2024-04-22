@@ -1,3 +1,2 @@
 new branch testing
-new test
 hello
